@@ -5,6 +5,7 @@ Calculate the average math and reading test scores, and spending budgets based o
 
 ## Resources
 Data Sources: missing_grades.csv, schools_complete.csv. students_complete.scv
+
 Software: Jupyter Notebooks, Python, Pandas, Numpy
 
 ## Summary
