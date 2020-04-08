@@ -11,7 +11,7 @@ Calculate the average math and reading test scores, and spending budgets based o
 Charter schools have better grades, but usually with a lower budget, while District schools have lower grades, but with higher budgets. Why could this be?
 
 ## Challenge Overview
-The school district has informed me of a serious issue. They would like me to recalculate my pervious findings because it was determined after discovering that the score averages for ninth graders from one high school are incorrect.
+The school district has informed me of a serious issue. They would like me to recalculate my pervious findings, because it was determined after discovering that the score averages for ninth graders from one high school are incorrect.
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and have asked me again to run some data analysis.
 
 ## Challenge Summary
