@@ -4,9 +4,8 @@
 Calculate the average math and reading test scores, and spending budgets based off test scores for a school district.
 
 ## Resources
-Data Sources: missing_grades.csv, schools_complete.csv., students_complete.scv
-
-Software: Jupyter Notebooks, Python, Pandas, Numpy
+- Data Sources: missing_grades.csv, schools_complete.csv., students_complete.scv
+- Software: Jupyter Notebooks, Python, Pandas, Numpy
 
 ## Summary
 Charter schools have better grades, but usually with a lower budget, while District schools have lower grades, but with higher budgets. Why could this be?
